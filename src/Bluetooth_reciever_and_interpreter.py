@@ -18,9 +18,9 @@ last_turn_time = None
 
 # Zuordnung von Zahlenwerten zu Farben der Megaminx-Seiten
 color_dict = {
-    0: "rote", 1: "grüne", 2: "schwarze", 3: "rote", 4: "braune", 5: "weisse",
-    6: "blaue", 7: "gelbe", 8: "dunkelgraue", 9: "dunkelblaue", 10: "hellgrüne", 
-    11: "lila", 12: "orange"
+    1: "grüne", 2: "schwarze", 3: "rote", 4: "braune",
+    5: "weisse", 6: "blaue", 7: "gelbe", 8: "dunkelgraue",
+    9: "dunkelblaue", 10: "hellgrüne", 11: "lila", 12: "orange"
 }
 
 # Log aller Drehungen (Zeit, Seite, Drehrichtung)
